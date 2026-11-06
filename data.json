@@ -1,0 +1,15 @@
+{
+    "chart_title": "LEGO Building Project Comparison",
+    "data_source": "Fictional practice data, not actual LEGO products or prices.",
+    "data_points": [
+        {"label": "City Tower", "theme": "Architecture", "pieces": 800, "price": 60},
+        {"label": "Garden House", "theme": "Architecture", "pieces": 1200, "price": 95},
+        {"label": "River Bridge", "theme": "Architecture", "pieces": 1800, "price": 140},
+        {"label": "Mini Coaster", "theme": "Rollercoaster", "pieces": 900, "price": 80},
+        {"label": "Loop Coaster", "theme": "Rollercoaster", "pieces": 2000, "price": 170},
+        {"label": "Mountain Coaster", "theme": "Rollercoaster", "pieces": 3000, "price": 250},
+        {"label": "Moon Rover", "theme": "Space", "pieces": 500, "price": 40},
+        {"label": "Space Shuttle", "theme": "Space", "pieces": 1500, "price": 120},
+        {"label": "Mars Station", "theme": "Space", "pieces": 2500, "price": 200}
+    ]
+}
